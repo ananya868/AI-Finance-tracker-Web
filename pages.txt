@@ -1,0 +1,23 @@
+PAGES::
+
+
+HOME PAGE : 
+
+Search Bar (RAG based) + Navigation Bar : Menu, logo, Profile pic, About us
+
+Monthly : 
+- Budget, Current Expense, Savings, Highlights .... 
+
+# Usable Feature: 
+1. Add Spending 
+        - purpose 
+        - amount
+    (a button to 'view total spending in this month')
+
+2. Add Fixed Expenditure (Bills) 
+    - Set purpose, amount, bill date 
+    - set reminder ?
+    - (smart alerts already set)
+
+
+

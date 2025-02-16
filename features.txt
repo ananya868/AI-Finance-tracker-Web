@@ -1,7 +1,4 @@
-
-
-
-
+:::Features:::
 
 Income:
     Small Income Dashboard 
@@ -68,6 +65,7 @@ Smart Alerts
     - exceed limit 
     - EMIs 
     - etc .. 
+
 
 
 
