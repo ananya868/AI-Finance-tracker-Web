@@ -1,0 +1,73 @@
+
+
+
+
+
+Income:
+    Small Income Dashboard 
+
+    - Primary Income (with period)
+        - job 
+        - business 
+        - rental
+    - Second Income
+        - Freelance 
+        - gigs 
+        - investments 
+
+
+Budgeting: 
+    - Set monthly budgets
+    - budget exceed reminder 
+    - Personalized Budget Recommendation
+    - 
+
+
+Savings:
+    - Goal 
+    - Reminder when reach saving goals !
+    - Insight on how far is the goal (in percentage)
+    - Personalized Recommendation For Saving
+
+
+Expense tracking 
+    | Fixed Expense | Variables
+    - Daily Spending 
+    - Food expenditure 
+    - Grocery 
+    - Travel 
+    - Fun activities
+    - Entertainment
+    - Electricity 
+    - EMIs
+    - Insurance, Tax 
+    - Water Bills 
+    - Gas 
+    - Subscriptions 
+    - Rent 
+    - Mobile + Wifi 
+    - Cosmetics 
+    - etc .. 
+
+    Dashboard: 
+        Colorful Highlights 
+            - RED for high spending 
+            - YELLOW for Normal spending 
+            - GREEN for low spending (Saved!)
+        Pie Charts 
+        Analytics 
+        Table 
+        Summarization 
+        Personalized Recommendation 
+        Comparison 
+
+
+#  Additional Features 
+Smart Alerts
+    - Bill Reminders
+    - exceed limit 
+    - EMIs 
+    - etc .. 
+
+
+
