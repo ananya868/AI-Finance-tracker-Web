@@ -1,11 +1,11 @@
 from langchain_community.utilities import SQLDatabase
-from typing_extensions import TypedDict 
 from langchain.chat_models import init_chat_model
 from langchain import hub 
 from langchain_community.tools.sql_database.tool import QuerySQLDataBaseTool
-from typing_extensions import Annotated 
 
 import os 
+from typing_extensions import Annotated 
+from typing_extensions import TypedDict 
 
 
 class QueryDBPipeline: 
@@ -39,6 +39,7 @@ class QueryDBPipeline:
 
 
     def config(self): 
+        """Configure pipeline components."""
         self.state = {"question": self.question}
         self.db = SQLDatabase.from_uri(self.db_uri)
         # Define LLM
